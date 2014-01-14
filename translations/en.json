@@ -1,0 +1,54 @@
+{
+  "app": {
+    "package": "app_name",
+    "description": {
+      "value": "Add CC App",
+      "title": "app description"
+    },
+    "name": {
+      "value": "Add CC App",
+      "title": "app name"
+    }
+  },
+
+  "loading": {
+    "value": "",
+    "title": "loading placeholder"
+  },
+
+  "fetch": {
+    "done": {
+      "value": "Good",
+      "title": "fetch success"
+    },
+    "fail": {
+      "value": "failed to fecth information from the server",
+      "title": "fetch failure"
+    }
+  },
+
+  "id": {
+    "value": "ID",
+    "title": "user id"
+  },
+
+  "email": {
+    "value": "Email",
+    "title": "user email"
+  },
+
+  "name": {
+    "value": "Name",
+    "title": "user name"
+  },
+
+  "role": {
+    "value": "Role",
+    "title": "user role"
+  },
+
+  "groups": {
+    "value": "Groups",
+    "title": "user groups"
+  }
+}
