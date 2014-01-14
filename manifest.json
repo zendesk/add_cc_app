@@ -15,6 +15,7 @@
 
   "defaultLocale": "en",
   "private": true,
+  "singleInstall": true,
   "noTemplate": true,
   "location": "ticket_sidebar",
   "version": "1.0",

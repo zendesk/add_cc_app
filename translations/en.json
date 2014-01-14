@@ -8,6 +8,19 @@
     "name": {
       "value": "Add CC App",
       "title": "app name"
+    },
+
+    "parameters": {
+      "cc_field_id": {
+        "label": {
+          "value": "CCs field id",
+          "title": "cc field id label"
+        },
+        "helpText": {
+          "value": "The id of the custom field that holds the CCs.",
+          "title": "cc field id helpText"
+        }
+      }
     }
   },
 
