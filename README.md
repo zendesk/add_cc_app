@@ -7,7 +7,7 @@ Have you ever wanted to allow your end-user to be able to define CC upon a new r
 
 ## App location:
 
-* Ticket sidebar
+* Ticket sidebar (THIS IS A NO TEMPLATE APP - IT WILL NOT SHOW ANYWHERE)
 
 ## Set-up/installation instructions:
 
