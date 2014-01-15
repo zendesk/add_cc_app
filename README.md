@@ -3,11 +3,16 @@
 # Add CC App
 
 ## Description
-Have you ever wanted to allow your end-user to be able to define CC upon a new request? This app will automatically add the end-user requested CCs as soon as an agent picks up the ticket.
+
+Have you ever wanted to allow your end-user to be able to define CC upon a new request? This App will automatically add the end-user requested CCs as soon as an agent picks up the ticket.
+
+The way this App works is by grabbing CCs that have been entered as text by the end user upon submission and adding them as CCs as soon as the first agent opens the ticket. The limitation here is that the CCs aren't added until the ticket is opened for the first time in the Agent interface.
+
+:no_entry: THIS IS A NO TEMPLATE APP - IT WILL NOT SHOW ANYWHERE :no_entry:
 
 ## App location:
 
-* Ticket sidebar (THIS IS A NO TEMPLATE APP - IT WILL NOT SHOW ANYWHERE)
+* Ticket sidebar (This is a No Template App)
 
 ## Set-up/installation instructions:
 
@@ -23,8 +28,12 @@ Report the previously created field ID in the settings of the app:
 
 ### 3. Test the app
 
-Create a ticket from your Help Center / Web Portal with CCs and open the ticket in the new Zendesk. The CCs should have been added to thr ticket.
+Create a ticket from your Help Center / Web Portal with CCs and open the ticket in the new Zendesk. The CCs should have been added to the ticket.
 
 ## Contribution:
 
 Pull requests are welcome.
+
+## Screenshot(s):
+
+See description section as to why no screenshot is available.
